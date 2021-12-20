@@ -2,7 +2,6 @@
 
 def move_zeros(array):
 
-    # iter_arr = iter(array)
     result = []
     zeros = 0
     for item in array:
